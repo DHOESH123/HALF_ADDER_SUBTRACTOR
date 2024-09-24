@@ -71,9 +71,15 @@ assign D = a ^ b;
   assign Bo = ~a & b;
 endmodule
 ```
+![image](https://github.com/user-attachments/assets/0e2936f8-f162-4a4a-8e46-498aa6f5d8d1)
+
 
 **RTL Schematic**
-
 **Output/TIMING Waveform**
+![image](https://github.com/user-attachments/assets/377accff-1d1b-4bae-93eb-f82b8fc56098)
+
+## HALF SUBTRACTOR
+![image](https://github.com/user-attachments/assets/22b05dd0-b014-4d76-8323-2f092ddf41cb)
 
 **Result:**
+The code is excecuted successfully.
